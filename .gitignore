@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+
+# Large / generated data (kept local)
+models/
+inputs/
+reference/
+gd_metadata/
+results/
+results-bak/
+results_v01/
+results_v02/
+prompts_backup/
+prompts_bak/
+
+# Report artifacts (keep markdown only)
+reports/**/*.jpg
+reports/**/*.pdf
